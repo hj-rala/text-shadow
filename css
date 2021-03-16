@@ -1,1 +1,6 @@
 .line {text-shadow:-2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;}
+
+
+ {-webkit-text-stroke: 3px #000;
+ text-shadow: 0px 5px black;
+ text-shadow: 0px 0px 0px 5px #000; /* ie */}
